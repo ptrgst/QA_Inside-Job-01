@@ -1,5 +1,5 @@
-import LoginPage from "../support/loginpage";
-import ProductPage from "../support/productpage";
+import LoginPage from "../support/LoginPage";
+import ProductPage from "../support/ProductPage";
 import CheckoutPage from "../support/CheckoutPage";
 
 describe('saucedemo - login, add product, checkout', () => {
