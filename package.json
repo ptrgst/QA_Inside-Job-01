@@ -1,0 +1,24 @@
+{
+  "name": "qa_inside-job-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptrgst/QA_Inside-Job-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptrgst/QA_Inside-Job-01/issues"
+  },
+  "homepage": "https://github.com/ptrgst/QA_Inside-Job-01#readme",
+  "dependencies": {
+    "node": "^24.2.0"
+  },
+  "devDependencies": {}
+}
