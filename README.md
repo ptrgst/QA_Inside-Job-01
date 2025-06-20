@@ -17,13 +17,13 @@ Project ini merupakan implementasi end-to-end testing menggunakan **Cypress** pa
 
 QA_Inside-Job-01/
 ├── cypress/
-│ ├── e2e/ # Skenario pengujian utama (misalnya: Saucedemo.cy.js)
+│ ├── e2e/ # Skenario pengujian utama (Saucedemo.cy.js)
 │ ├── fixtures/ # Data uji, seperti user.json
 │ ├── support/
 │ │ ├── LoginPage.js # Objek halaman untuk login
 │ │ ├── ProductPage.js # Objek halaman untuk produk
 │ │ ├── CheckoutPage.js # Objek halaman untuk checkout
-│ │ └── commands.js # Custom command Cypress (opsional)
+│ │ └── commands.js
 ├── .github/
 │ └── workflows/
 │ └── cypress.yml # Konfigurasi CI dengan GitHub Actions
