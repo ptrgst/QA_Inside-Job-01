@@ -1,6 +1,6 @@
 # 🧪 QA Inside Job 01 - Cypress E2E Testing
 
-Project ini merupakan implementasi end-to-end testing menggunakan **Cypress** pada situs [SauceDemo](https://www.saucedemo.com/). Pengujian meliputi proses **login**, **penambahan produk ke keranjang**, hingga **checkout**, menggunakan pendekatan **Page Object Model (POM)** dan **fixtures** sebagai data uji.
+Project ini merupakan implementasi end-to-end testing menggunakan **Cypress** pada situs [SauceDemo](https://www.saucedemo.com/). Pengujian meliputi proses **login**, **penambahan produk ke keranjang**, hingga **checkout**, menggunakan pendekatan **Page Object Model (POM)**.
 
 ---
 
